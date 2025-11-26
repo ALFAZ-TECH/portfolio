@@ -1,0 +1,126 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.container{
+    .back{
+        h1{ padding-left: 10px;
+            font-size: 50px;
+            color: white;
+            font-weight: 600
+            ;
+            position: absolute;
+            top: 570px;
+            text-transform: uppercase;
+            
+        }
+        h2{ 
+            padding-left: 60px;
+            font-size: 30px;
+            color: white;
+            font-weight: 400;
+            position: absolute;
+            top: 530px;
+            text-transform: capitalize;
+
+        }
+        img{
+            height: 100vh;
+            width: 100%;
+        }
+    }
+    .photo1{
+        img{
+            position: absolute;
+            top: 150px;
+            left: 450px;
+            height: 400px;
+        }
+    }
+    .photo2{
+        img{
+                height: 63vh;
+                position: absolute;
+                top: 220px;
+                left: 700px;
+            
+        }
+    }
+    .photo3{
+        img{
+            position: absolute;
+            top: 330px;
+            left: 900px;
+            height: 280px;
+        }
+        p{
+            position: absolute;
+            top: 450px;
+            left: 720px;
+            font-size: 10px;
+            width: 170px;
+            text-align: justify;
+            text-transform: capitalize;
+
+        }
+    }
+    .photo4{
+        img{
+            position: absolute;
+            top: 380px;
+            left: 1120px;
+            height: 230px;
+            width: 180px;
+
+        }
+         p{
+            position: absolute;
+            top: 330px;
+            left: 1130px;
+            font-size: 10px;
+            width: 140px;
+            text-align: justify;
+            text-transform: capitalize;
+            
+        }
+    }
+    .photo5{
+        img{
+            position: absolute;
+            top: 30px;
+            left: 350px;
+            height: 410px;
+        }
+        h1{
+            font-size: 60px;
+            font-weight: 600;
+            color: darkblue;
+            position: absolute;
+            text-transform: capitalize;
+            top: 150px;
+            left: 400px;
+
+        }
+    }
+    .photo6{
+        img{
+            height: 300px;
+            width: 250px;
+            border:  25px solid wheat;
+            border-radius: 10px;
+            position: absolute;
+            top: 70px;
+            left: 660px;
+
+        }
+        p{
+            width: 240px;
+            font-size: 15px;
+            font-weight: 400px;
+            text-align: justify;
+             position: absolute;
+            top: 260px;
+            left: 410px;
+        }
+    }
+}
